@@ -1,7 +1,5 @@
 # Glassmorphism To-Do App
 
-![Uploading image.png…]()
-
 ## Features
 
 ### Adding Tasks
